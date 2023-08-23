@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davincidances
 - 👀 I’m interested in this kind of things
 - 🌱 I’m currently learning about programming
-- 💞️ I’m looking to collaborate on someone soon
+- 💞️ I’m looking to collaborate with someone soon
 - 📫 How to reach me? Just come by my house and we'll get it settled
 
 <!---
