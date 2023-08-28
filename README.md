@@ -3,7 +3,7 @@
     
 </head>
 <body>
-    <img src="https://www.pinterest.ph/pin/304626362308323817/">
+    <img src="https://pin.it/3qxWlGp">
     <h1>Hello world!</h1>
 </body>
 </html>
