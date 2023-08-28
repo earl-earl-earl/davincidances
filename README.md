@@ -1,12 +1,8 @@
 <html>
 <head>
-   <style>
-      body {
-         background-color: olive;
-      }
-   </style>
+    <title>Hi</title>
 </head>
 <body>
-    <h1>Helo world!</h1>
+    <h1>Hello world!</h1>
 </body>
 </html>
